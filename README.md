@@ -4,6 +4,7 @@
 ### Proyecto final
 
 Definición y ejecución de imagen personalizada sobre ambiente Kubernetes. 
+Video en youtube <a href="https://youtu.be/NWXQOY1gUdc">Sistemas Operativos 2- Proyecto Final</a>
 
 ### Prerequisitos
 Tener previamente instalado microk8s, usar este tutorial <a href="https://microk8s.io/docs/getting-started">MicroK8s - Get started</a>
